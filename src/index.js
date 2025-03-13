@@ -4,7 +4,7 @@ const ScreenshotManager = require('./lib/ScreenshotManager');
 const config = require('./config/config');
 const logger = require('./utils/logger');
 
-logger.info('ClickShot - Webページスクリーンショット自動化ツールを開始します');
+logger.info('Firecarpet - Webページスクリーンショット自動化ツールを開始します');
 logger.info('設定情報:', {
   urlsFile: config.files.urls,
   selectorsFile: config.files.selectors,

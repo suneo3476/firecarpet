@@ -17,7 +17,7 @@ firecarpetは、以下を含むWebページのスクリーンショットを自�
 1. このリポジトリをクローン
 ```bash
 git clone https://github.com/suneo3476/firecarpet.git
-cd clickshot
+cd firecarpet
 ```
 
 2. 依存関係をインストール
