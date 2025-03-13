@@ -1,6 +1,6 @@
-# ClickShot
+# Firecarpet
 
-ClickShotは、以下を含むWebページのスクリーンショットを自動的に取得するツールです：
+firecarpetは、以下を含むWebページのスクリーンショットを自動的に取得するツールです：
 - ページの初期状態
 - インタラクティブ要素（モーダル、ドロップダウン、アコーディオン）クリック後の状態
 
@@ -16,7 +16,7 @@ ClickShotは、以下を含むWebページのスクリーンショットを自�
 
 1. このリポジトリをクローン
 ```bash
-git clone https://github.com/your-username/clickshot.git
+git clone https://github.com/suneo3476/firecarpet.git
 cd clickshot
 ```
 
