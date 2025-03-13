@@ -76,7 +76,7 @@ It also works with pages that require username/password Basic authentication.
 
 2. Clone the repository
    ```bash
-   git clone https://github.com/your-username/web-screenshot-tool.git .
+   git clone https://github.com/suneo3476/web-screenshot-tool.git .
    ```
 
 3. Install required programs

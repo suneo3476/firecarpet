@@ -1,6 +1,6 @@
-# ClickShot
+# Firecarpet
 
-ClickShot is a tool for automatically capturing screenshots of web pages, including:
+Firecarpet is a tool for automatically capturing screenshots of web pages, including:
 - Initial page state
 - Interactive elements (modals, dropdowns, accordions) after clicking
 
@@ -16,8 +16,8 @@ ClickShot is a tool for automatically capturing screenshots of web pages, includ
 
 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/clickshot.git
-cd clickshot
+git clone https://github.com/suneo3476/firecarpet.git
+cd firecarpet
 ```
 
 2. Install dependencies
