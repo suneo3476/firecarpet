@@ -76,7 +76,7 @@ ID/パスワードによるBasic認証が必要なページにも対応してい
 
 2. リポジトリをクローン
    ```bash
-   git clone https://github.com/your-username/web-screenshot-tool.git .
+   git clone https://github.com/suneo3476/firecarpet.git .
    ```
 
 3. 必要なプログラムのインストール
@@ -122,4 +122,4 @@ npm start
 - `[ページ名]_initial.png` - ページの初期状態
 - `[ページ名]_modal_[modalId].png` - モーダルウィンドウを開いた状態
 - `[ページ名]_dropdown_[index].png` - アコーディオンメニューをすべて開いた状態
-- `specific_results.csv` - 実行結果のサマリー
+- `results.csv` - 実行結果のサマリー
